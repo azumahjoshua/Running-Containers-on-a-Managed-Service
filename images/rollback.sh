@@ -1,0 +1,17 @@
+#!/bin/bash
+
+mv "img1.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img10.png"
+mv "img2.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img11.png"
+mv "img3.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img12.png"
+mv "img4.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img13.png"
+mv "img5.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img14.png"
+mv "img6.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img15.png"
+mv "img7.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img1.png"
+mv "img8.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img2.png"
+mv "img9.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img3.png"
+mv "img10.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img4.png"
+mv "img11.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img5.png"
+mv "img12.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img6.png"
+mv "img13.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img7.png"
+mv "img14.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img8.png"
+mv "img15.png" "/home/engineer/Desktop/Running Containers on a Managed Service/images/img9.png"

@@ -1,0 +1,30 @@
+Cloud9 VPC ID:vpc-0481567d5eb84713c
+Cloud9 Availability Zone:us-east-1a
+Cloud9 subnet ID:subnet-06d7fe4f42c948bcd
+extraSubnetForRds subnet ID:subnet-0cda4625791a354f2
+Cloud9 security group ID:sg-050e09f133829768d
+Database endpoint:supplierdb.cluster-c6fmw9ryb6yf.us-east-1.rds.amazonaws.com
+Repository URI:328901266704.dkr.ecr.us-east-1.amazonaws.com/cafe/node-web-app
+Elastic Beanstalk URL:http://myenv.eba-mhv5j8hn.us-east-1.elasticbeanstalk.com/beans.json
+
+http://c58885a1045916l7009432t1w328901266704-s3bucket-ipkuurxbtscd.s3-website-us-east-1.amazonaws.com
+ aws ecr describe-repositories
+{
+    "repositories": [
+        {
+            "repositoryArn": "arn:aws:ecr:us-east-1:328901266704:repository/cafe/node-web-app",
+            "registryId": "328901266704",
+            "repositoryName": "cafe/node-web-app",
+            "repositoryUri": "328901266704.dkr.ecr.us-east-1.amazonaws.com/cafe/node-web-app",
+            "createdAt": "2024-06-29T16:47:19.557000+00:00",
+            "imageTagMutability": "MUTABLE",
+            "imageScanningConfiguration": {
+                "scanOnPush": false
+            },
+            "encryptionConfiguration": {
+                "encryptionType": "AES256"
+            }
+        }
+    ]
+}
+voclabs:~/environment $ 
